@@ -25,8 +25,8 @@ on personal projects to improve my knowledge.
 
 <h3>My Expertise:</h3>
 <img src='https://skillicons.dev/icons?i=html,css,js,bootstrap,py&theme=light' alt= 'Languages' />
-<h3>My Social Network</h3>
+<!-- <h3>My Social Networks:</h3>
 <a href="https://instagram.com/spider_sta" rel="nofollow"></a>
-<a href="https://t.me/spider_sta" rel="nofollow"></a>
+<a href="https://t.me/spider_sta" rel="nofollow"></a> -->
 
 
