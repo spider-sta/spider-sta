@@ -21,3 +21,7 @@ on personal projects to improve my knowledge.
   <li>Git & GitHub</li>
   <li>Artificial Intelligence</li>
 </ul>
+
+
+<h3>Languages</h3>
+<img src='https://skillicons.dev/icons?i=html,css,js,bootstrap,py' alt= 'Languages' />
