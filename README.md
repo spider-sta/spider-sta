@@ -1,5 +1,7 @@
 <h1>Hi! I'm Stayesh</h1>
 
+<img src='./Sta.Git.png' alt='image' />
+
 <p>Aspiring AI Engineer</p>
 <p>Currently learning Python & Computer Science</p>
 
