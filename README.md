@@ -23,5 +23,5 @@ on personal projects to improve my knowledge.
 </ul>
 
 
-<h3>Languages</h3>
-<img src='https://skillicons.dev/icons?i=html,css,js,bootstrap,py' alt= 'Languages' />
+<h3>Languages:</h3>
+<img src='https://skillicons.dev/icons?i=html,css,js,bootstrap,py&theme=light' alt= 'Languages' />
